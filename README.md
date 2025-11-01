@@ -703,37 +703,6 @@ The window should close normally. If not:
 
 ---
 
-## Going Deeper
-
-### Adding More UI Elements
-
-You can add buttons, text fields, images, and more by following the same pattern:
-
-```csharp
-// Example: Adding a button
-IntPtr nsButtonClass = objc_getClass("NSButton");
-IntPtr button = objc_msgSend(nsButtonClass, allocSel);
-CGRect buttonFrame = new CGRect(300, 400, 200, 50);
-IntPtr initWithFrameSel = sel_registerName("initWithFrame:");
-button = objc_msgSend(button, initWithFrameSel, 
-    Marshal.AllocHGlobal(Marshal.SizeOf(buttonFrame)));
-
-// Set button title
-IntPtr setTitleSel = sel_registerName("setTitle:");
-IntPtr buttonTitle = CreateNSString("Click Me!");
-objc_msgSend(button, setTitleSel, buttonTitle);
-
-// Add to window
-objc_msgSend(contentView, addSubviewSel, button);
-```
-
-### Handling Events
-
-To make buttons do something:
-
-1. Create a selector for the action
-2. Set the button's target and action
-3. Implement the callback in C# (more complex, requires delegates)
 
 ### Exploring AppKit
 
