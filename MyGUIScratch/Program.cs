@@ -72,7 +72,7 @@ class Program
         IntPtr window = objc_msgSend(nsWindowClass, allocSel);
 
         // Step 4: Initialize the window with a frame
-        CGRect frame = new CGRect(100, 100, 800, 600);
+        CGRect frame = new CGRect(100, 100, 1920, 1080);
         IntPtr initSel = sel_registerName("initWithContentRect:styleMask:backing:defer:");
 
         // Window style: titled + closable + miniaturizable + resizable

@@ -629,7 +629,7 @@ When you run the program successfully:
    - You can move it around
    - You can resize it
    - Close button works
-   - Responds to Cmd+Q to quit
+   - Responds to Cmd+Q to quit(It is not working right now)
 
 ---
 

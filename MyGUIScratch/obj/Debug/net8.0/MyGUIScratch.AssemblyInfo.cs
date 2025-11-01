@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyGUIScratch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0085fbf3281ce24307767b021ed6f615dae46a3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99da43e3cb188dd57133128d87cc12072802ed99")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyGUIScratch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyGUIScratch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
