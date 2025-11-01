@@ -1,0 +1,15 @@
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/bin/Release/net8.0/MyGUIScratch
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/bin/Release/net8.0/MyGUIScratch.deps.json
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/bin/Release/net8.0/MyGUIScratch.runtimeconfig.json
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/bin/Release/net8.0/MyGUIScratch.dll
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/bin/Release/net8.0/MyGUIScratch.pdb
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.AssemblyInfoInputs.cache
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.AssemblyInfo.cs
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.csproj.CoreCompileInputs.cache
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.sourcelink.json
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.dll
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/refint/MyGUIScratch.dll
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.pdb
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/MyGUIScratch.genruntimeconfig.cache
+/Users/gunashfarzaliyev/projects/csharp-gui-demo-from-scratch/MyGUIScratch/obj/Release/net8.0/ref/MyGUIScratch.dll
